@@ -1,4 +1,4 @@
-module github.com/digitalocean/do-agent/otel-gateway/receiver/timeseriesbinaryreceiver
+module github.com/vamshi1997/otel-timeseriesbinaryreceiver
 
 go 1.24.0
 

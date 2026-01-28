@@ -1,4 +1,4 @@
-module github.com/vamshi1997/otel-timeseriesbinaryreceiver
+module github.com/vamshi1997/oteltimeseriesbinaryreceiver
 
 go 1.24.0
 
